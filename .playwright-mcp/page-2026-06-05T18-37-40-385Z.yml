@@ -1,0 +1,337 @@
+- generic [active] [ref=e1]:
+  - text:  
+  - navigation [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: /area/vitrine/home
+      - img [ref=e4]
+    - generic [ref=e5]:
+      - generic [ref=e7] [cursor=pointer]: 
+      - generic [ref=e8]:
+        - button " " [ref=e9] [cursor=pointer]:
+          - generic [ref=e10]: 
+          - text: 
+        - text:  
+      - generic [ref=e11]:
+        - button "" [ref=e12] [cursor=pointer]:
+          - img [ref=e13]
+          - text: 
+        - text:     
+    - list [ref=e15]:
+      - listitem [ref=e16]:
+        - link "Página Inicial" [ref=e17] [cursor=pointer]:
+          - /url: /area/vitrine/home
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - main [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - iframe [ref=e27]:
+              - generic [ref=f3e5]:
+                - button "Reproduzir" [ref=f3e6] [cursor=pointer]:
+                  - img
+                  - generic [ref=f3e7]: Reproduzir
+                - button [ref=f3e8] [cursor=pointer]:
+                  - img
+                - button [ref=f3e9] [cursor=pointer]:
+                  - img
+                - generic [ref=f3e10]:
+                  - button "Sem som" [ref=f3e11] [cursor=pointer]:
+                    - img
+                    - generic [ref=f3e12]: Sem som
+                  - slider "Volume" [ref=f3e13]: "1"
+                - generic "Tempo atual" [ref=f3e14]: 00:00
+                - generic "Duração" [ref=f3e15]: ⁄01:56
+                - button "Definições" [ref=f3e17] [cursor=pointer]:
+                  - img
+                  - generic [ref=f3e18]: Definições
+                - button "Entrar no modo tela cheia (fullscreen)" [ref=f3e19] [cursor=pointer]:
+                  - img
+                  - generic [ref=f3e20]: Entrar no modo tela cheia (fullscreen)
+                - generic [ref=f3e22]:
+                  - generic:
+                    - generic:
+                      - list:
+                        - listitem
+                      - generic: test
+                  - slider "Procurar" [ref=f3e23] [cursor=pointer]: "0"
+                  - progressbar [ref=f3e24]: "% armazenado na memória buffer"
+                  - generic:
+                    - generic: 00:00
+                - button "PIP" [ref=f3e25] [cursor=pointer]:
+                  - img
+                  - generic [ref=f3e26]: PIP
+            - generic [ref=e28] [cursor=pointer]:
+              - generic [ref=e30]: 
+              - text: 
+          - text: 
+        - generic [ref=e31]:
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - link "Início" [ref=e35] [cursor=pointer]:
+                - /url: /area/vitrine/home
+            - listitem [ref=e36]:
+              - text: 
+              - link "Academia Start Blog [T5]" [ref=e37] [cursor=pointer]:
+                - /url: /area/conteudo/produto/281227
+          - generic [ref=e38]: Guia Introdutório do mundo dos Blogs
+        - generic [ref=e39]:
+          - article [ref=e40]:
+            - paragraph [ref=e41]: Aprenda a criar seu blog do zero com foco em AdSense! Entenda nicho, domínio, WordPress e evite erros que barram sua aprovação. Construa uma base sólida rumo ao sucesso e à monetização online.
+          - separator [ref=e42]
+          - article [ref=e43]:
+            - generic [ref=e44]: Mentoria Alvo 10K – Aplicações abertas!
+            - generic [ref=e45]: Um suporte exclusivo para acelerar seu caminho rumo aos 10 mil dólares, com acesso ao programa de aceleração e encontros especiais com a Cris.
+            - link "Clique aqui para aplicar agora" [ref=e47] [cursor=pointer]:
+              - /url: "https://alvo10k.com/aplicacao-mentoria-a10k/?utm_source=cademi&utm_medium=lista-alunos&utm_campaign=ma10k-aplicacao-cfk&utm_term=aula&utm_content=link-aula001 "
+              - button "Clique aqui para aplicar agora" [ref=e48]: Clique aqui para aplicar agora
+            - generic [ref=e49]: Clique no BOTÃO abaixo para enviar o seu nível atingido 👇
+            - link "Enviar Nível Atingido 🎯" [ref=e51] [cursor=pointer]:
+              - /url: https://docs.google.com/forms/d/e/1FAIpQLScoHDCgOz8Uy9kd2obekzLqBtjYnvJlvD_r91JrD3cfioBZlQ/viewform
+              - button "Enviar Nível Atingido 🎯" [ref=e52]
+          - separator [ref=e53]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - link "Curtir" [ref=e57] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e58]: 
+              - link "Descurtir" [ref=e59] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e60]: 
+              - link "Desmarcar como visto " [ref=e61] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e62]: Desmarcar como visto
+                - text: 
+                - generic [ref=e64]: 
+            - generic [ref=e65]:
+              - link "Anterior" [ref=e66] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6734985
+                - generic [ref=e67]: 
+                - text: Anterior
+              - link "Próximo" [ref=e68] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837641
+                - text: Próximo
+                - generic [ref=e69]: 
+          - generic [ref=e70]:
+            - list [ref=e71]:
+              - listitem [ref=e72] [cursor=pointer]: Comentários
+            - generic [ref=e76]:
+              - generic [ref=e78]:
+                - img [ref=e80]
+                - textbox "Deixe seu comentário" [ref=e81]
+                - button "Enviar comentário" [ref=e83] [cursor=pointer]:
+                  - generic [ref=e84]: 
+              - generic [ref=e85]:
+                - generic [ref=e87]:
+                  - generic [ref=e88]:
+                    - img [ref=e90]
+                    - generic [ref=e91]:
+                      - text: Pedro S.
+                      - generic [ref=e92]: 17/05/2026, 15:49
+                    - generic "Responder" [ref=e94] [cursor=pointer]:
+                      - generic [ref=e95]: 
+                  - paragraph [ref=e98]: De olho no Alvo
+                - generic [ref=e100]:
+                  - generic [ref=e101]:
+                    - img [ref=e103]
+                    - generic [ref=e104]:
+                      - text: Marcela M.
+                      - generic [ref=e105]: 03/05/2026, 13:02
+                    - generic "Responder" [ref=e107] [cursor=pointer]:
+                      - generic [ref=e108]: 
+                  - paragraph [ref=e111]: Oi pessoal, animada para começar e ter muito sucesso junto com cada um de vcs! Vamos a caminho da prosperidade galera!
+                - generic [ref=e113]:
+                  - generic [ref=e114]:
+                    - img [ref=e116]
+                    - generic [ref=e117]:
+                      - text: Robson S.
+                      - generic [ref=e118]: 25/04/2026, 09:01
+                    - generic "Responder" [ref=e120] [cursor=pointer]:
+                      - generic [ref=e121]: 
+                  - paragraph [ref=e124]: Vamos ao alvo
+                - generic [ref=e126]:
+                  - generic [ref=e127]:
+                    - img [ref=e129]
+                    - generic [ref=e130]:
+                      - text: Alessandro C.
+                      - generic [ref=e131]: 17/02/2026, 08:50
+                    - generic "Responder" [ref=e133] [cursor=pointer]:
+                      - generic [ref=e134]: 
+                  - paragraph [ref=e137]: Ok, perfeito !!
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - img [ref=e142]
+                    - generic [ref=e143]:
+                      - text: Andresa C.
+                      - generic [ref=e144]: 15/01/2026, 09:26
+                    - generic "Responder" [ref=e146] [cursor=pointer]:
+                      - generic [ref=e147]: 
+                  - paragraph [ref=e150]: Vamos lá!
+                - generic [ref=e152]:
+                  - generic [ref=e153]:
+                    - img [ref=e155]
+                    - generic [ref=e156]:
+                      - text: William L.
+                      - generic [ref=e157]: 17/12/2025, 10:18
+                    - generic "Responder" [ref=e159] [cursor=pointer]:
+                      - generic [ref=e160]: 
+                  - paragraph [ref=e163]: 100% motivado
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - img [ref=e168]
+                    - generic [ref=e169]:
+                      - text: Jorge A.
+                      - generic [ref=e170]: 08/12/2025, 11:56
+                    - generic "Responder" [ref=e172] [cursor=pointer]:
+                      - generic [ref=e173]: 
+                  - paragraph [ref=e176]: Nível de espectativa!
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - img [ref=e181]
+                    - generic [ref=e182]:
+                      - text: David S.
+                      - generic [ref=e183]: 26/11/2025, 00:32
+                    - generic "Responder" [ref=e185] [cursor=pointer]:
+                      - generic [ref=e186]: 
+                  - paragraph [ref=e189]: Sendo motivado cada vez mais com as aulas.
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - img [ref=e194]
+                    - generic [ref=e195]:
+                      - text: Renata S.
+                      - generic [ref=e196]: 15/11/2025, 09:05
+                    - generic "Responder" [ref=e198] [cursor=pointer]:
+                      - generic [ref=e199]: 
+                  - paragraph [ref=e202]: Muito animada gratidão
+                - generic [ref=e204]:
+                  - generic [ref=e205]:
+                    - img [ref=e207]
+                    - generic [ref=e208]:
+                      - text: Renata S.
+                      - generic [ref=e209]: 15/11/2025, 09:04
+                    - generic "Responder" [ref=e211] [cursor=pointer]:
+                      - generic [ref=e212]: 
+                  - paragraph [ref=e215]: Muito animada,
+              - button "Carregar mais " [ref=e217] [cursor=pointer]:
+                - generic [ref=e218]:
+                  - text: Carregar mais
+                  - generic [ref=e219]: 
+      - complementary [ref=e220]:
+        - generic [ref=e221]:
+          - generic [ref=e223] [cursor=pointer]:
+            - img [ref=e225]
+            - generic [ref=e228]:
+              - generic [ref=e229]: Meu progresso - 49.0%
+              - generic [ref=e230]: 75 de 153 aula
+          - button "Comece Aqui — 11 aulas" [ref=e232] [cursor=pointer]:
+            - img [ref=e234]
+            - generic [ref=e237]:
+              - text: Comece Aqui
+              - generic [ref=e238]: 11 aulas
+          - generic [ref=e239]:
+            - 'button "01 - Fase de Fundação: Seu Blog no AR — 15 aulas" [expanded] [ref=e240] [cursor=pointer]':
+              - img [ref=e242]
+              - generic [ref=e245]:
+                - text: "01 - Fase de Fundação: Seu Blog no AR"
+                - generic [ref=e246]: 15 aulas
+            - generic [ref=e247]:
+              - link "1. Guia Introdutório do mundo dos Blogs" [ref=e248] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925344
+                - generic [ref=e252]: 1. Guia Introdutório do mundo dos Blogs
+              - link "2. Organização e Mente presente para alavancar sua rotina" [ref=e253] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837641
+                - generic [ref=e257]: 2. Organização e Mente presente para alavancar sua rotina
+              - link "3. Os 3 elementos únicos para iniciar seu blog" [ref=e258] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925345
+                - generic [ref=e262]: 3. Os 3 elementos únicos para iniciar seu blog
+              - link "4. Os tipos de conteúdos que não encantam o Google" [ref=e263] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925346
+                - generic [ref=e267]: 4. Os tipos de conteúdos que não encantam o Google
+              - link "5. Nichos menos apreciados pelo Google" [ref=e268] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925347
+                - generic [ref=e272]: 5. Nichos menos apreciados pelo Google
+              - link "6. Técnica das 4 Camadas para aprovação do seu Blog" [ref=e273] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925348
+                - generic [ref=e277]: 6. Técnica das 4 Camadas para aprovação do seu Blog
+              - link "7. Definindo seu nicho com IA em 15 minutos" [ref=e278] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925350
+                - generic [ref=e282]: 7. Definindo seu nicho com IA em 15 minutos
+              - link "8. Defina as 3 categorias do seu Blog em 10 minutos com IA" [ref=e283] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925351
+                - generic [ref=e287]: 8. Defina as 3 categorias do seu Blog em 10 minutos com IA
+              - link "9. Definindo os títulos dos seus artigos com IA em 15 minutos" [ref=e288] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837642
+                - generic [ref=e292]: 9. Definindo os títulos dos seus artigos com IA em 15 minutos
+              - link "10. Identificando Possíveis Repetições de Artigos" [ref=e293] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837643
+                - generic [ref=e297]: 10. Identificando Possíveis Repetições de Artigos
+              - 'link "11. Domínio: Defina o nome do seu blog em 10 minutos com IA" [ref=e298] [cursor=pointer]':
+                - /url: /area/conteudo/aula/3925352
+                - generic [ref=e302]: "11. Domínio: Defina o nome do seu blog em 10 minutos com IA"
+              - 'link "12. Domínio: Contratando Hospedagem e Domínio" [ref=e303] [cursor=pointer]':
+                - /url: /area/conteudo/aula/3925353
+                - generic [ref=e307]: "12. Domínio: Contratando Hospedagem e Domínio"
+              - link "13. Instalando seu Wordpress - Desmistificando a parte técnica" [ref=e308] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925354
+                - generic [ref=e312]: 13. Instalando seu Wordpress - Desmistificando a parte técnica
+              - link "14. Pegue seu café (ou a sua água), coloque seu Blog no ar e vá comemorar!! Parabéns!" [ref=e313] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925355
+                - generic [ref=e317]: 14. Pegue seu café (ou a sua água), coloque seu Blog no ar e vá comemorar!! Parabéns!
+              - link "15. Ajuste Fino na Estrutura do Seu Blog" [ref=e318] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837644
+                - generic [ref=e322]: 15. Ajuste Fino na Estrutura do Seu Blog
+          - 'button "02 - Fase de Fundação: Preparando o seu Blog para a Aprovação — 12 aulas" [ref=e324] [cursor=pointer]':
+            - img [ref=e326]
+            - generic [ref=e329]:
+              - text: "02 - Fase de Fundação: Preparando o seu Blog para a Aprovação"
+              - generic [ref=e330]: 12 aulas
+          - 'button "03 - Fase de Fundação: Artigos de Base para aprovação — 14 aulas" [ref=e332] [cursor=pointer]':
+            - img [ref=e334]
+            - generic [ref=e337]:
+              - text: "03 - Fase de Fundação: Artigos de Base para aprovação"
+              - generic [ref=e338]: 14 aulas
+          - 'button "04 - Fase de Fundação: Enviando seu blog para Aprovação — 12 aulas" [ref=e340] [cursor=pointer]':
+            - img [ref=e342]
+            - generic [ref=e345]:
+              - text: "04 - Fase de Fundação: Enviando seu blog para Aprovação"
+              - generic [ref=e346]: 12 aulas
+          - 'button "05 - Fase de Validação: Mineração de palavras-chaves — 14 aulas" [ref=e348] [cursor=pointer]':
+            - img [ref=e350]
+            - generic [ref=e353]:
+              - text: "05 - Fase de Validação: Mineração de palavras-chaves"
+              - generic [ref=e354]: 14 aulas
+          - 'button "06 - Fase de Validação: Blog Aprovado — 10 aulas" [ref=e356] [cursor=pointer]':
+            - img [ref=e358]
+            - generic [ref=e361]:
+              - text: "06 - Fase de Validação: Blog Aprovado"
+              - generic [ref=e362]: 10 aulas
+          - 'button "07 - Fase de Validação: Tráfego com Google Ads — 19 aulas" [ref=e364] [cursor=pointer]':
+            - img [ref=e366]
+            - generic [ref=e369]:
+              - text: "07 - Fase de Validação: Tráfego com Google Ads"
+              - generic [ref=e370]: 19 aulas
+          - 'button "08 - Fase de Validação: Otimização de Campanhas — 32 aulas" [ref=e372] [cursor=pointer]':
+            - img [ref=e374]
+            - generic [ref=e377]:
+              - text: "08 - Fase de Validação: Otimização de Campanhas"
+              - generic [ref=e378]: 32 aulas
+          - 'button "09 - Fase de Escala: Escalando suas Campanhas — 9 aulas" [ref=e380] [cursor=pointer]':
+            - img [ref=e382]
+            - generic [ref=e385]:
+              - text: "09 - Fase de Escala: Escalando suas Campanhas"
+              - generic [ref=e386]: 9 aulas
+          - 'button "10 - Fase de Escala: Blogs em outros idiomas — 5 aulas" [ref=e388] [cursor=pointer]':
+            - img [ref=e390]
+            - generic [ref=e393]:
+              - text: "10 - Fase de Escala: Blogs em outros idiomas"
+              - generic [ref=e394]: 5 aulas
+    - generic:
+      - generic:
+        - main
+  - contentinfo [ref=e395]:
+    - generic [ref=e396]:
+      - generic [ref=e398]: Copyright © 2026 - Cris Franklin. Todos os direitos reservados.
+      - generic [ref=e400]:
+        - link "Termos de uso" [ref=e401] [cursor=pointer]:
+          - /url: https://compliance.cademi.com.br/termos-de-uso
+        - link "Política de privacidade" [ref=e402] [cursor=pointer]:
+          - /url: https://compliance.cademi.com.br/politica-de-privacidade-lgpd

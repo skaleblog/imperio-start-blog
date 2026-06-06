@@ -1,0 +1,328 @@
+- generic [active] [ref=e1]:
+  - text:  
+  - navigation [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: /area/vitrine/home
+      - img [ref=e4]
+    - generic [ref=e5]:
+      - generic [ref=e7] [cursor=pointer]: 
+      - generic [ref=e8]:
+        - button " " [ref=e9] [cursor=pointer]:
+          - generic [ref=e10]: 
+          - text: 
+        - text:  
+      - generic [ref=e11]:
+        - button "" [ref=e12] [cursor=pointer]:
+          - img [ref=e13]
+          - text: 
+        - text:     
+    - list [ref=e15]:
+      - listitem [ref=e16]:
+        - link "Página Inicial" [ref=e17] [cursor=pointer]:
+          - /url: /area/vitrine/home
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - main [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - iframe [ref=e27]:
+              - generic [ref=f1e5]:
+                - button "Reproduzir" [ref=f1e6] [cursor=pointer]:
+                  - img
+                  - generic [ref=f1e7]: Reproduzir
+                - button [ref=f1e8] [cursor=pointer]:
+                  - img
+                - button [ref=f1e9] [cursor=pointer]:
+                  - img
+                - generic [ref=f1e10]:
+                  - button "Sem som" [ref=f1e11] [cursor=pointer]:
+                    - img
+                    - generic [ref=f1e12]: Sem som
+                  - slider "Volume" [ref=f1e13]: "1"
+                - generic "Tempo atual" [ref=f1e14]: 00:00
+                - generic "Duração" [ref=f1e15]: ⁄10:13
+                - button "Definições" [ref=f1e17] [cursor=pointer]:
+                  - img
+                  - generic [ref=f1e18]: Definições
+                - button "Entrar no modo tela cheia (fullscreen)" [ref=f1e19] [cursor=pointer]:
+                  - img
+                  - generic [ref=f1e20]: Entrar no modo tela cheia (fullscreen)
+                - generic [ref=f1e22]:
+                  - generic:
+                    - generic:
+                      - list:
+                        - listitem
+                      - generic: test
+                  - slider "Procurar" [ref=f1e23] [cursor=pointer]: "0"
+                  - progressbar [ref=f1e24]: "% armazenado na memória buffer"
+                  - generic:
+                    - generic: 00:00
+                - button "PIP" [ref=f1e25] [cursor=pointer]:
+                  - img
+                  - generic [ref=f1e26]: PIP
+            - generic [ref=e28] [cursor=pointer]:
+              - generic [ref=e30]: 
+              - text: 
+          - text: 
+        - generic [ref=e31]:
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - link "Início" [ref=e35] [cursor=pointer]:
+                - /url: /area/vitrine/home
+            - listitem [ref=e36]:
+              - text: 
+              - link "Academia Start Blog [T5]" [ref=e37] [cursor=pointer]:
+                - /url: /area/conteudo/produto/281227
+          - generic [ref=e38]: Elementos Essenciais para aprovar o seu Blog
+        - generic [ref=e39]:
+          - article [ref=e40]:
+            - paragraph [ref=e41]: "Entenda os 4 pilares que o Google analisa para aprovar seu blog no AdSense: conteúdo original, estrutura profissional, páginas obrigatórias e conformidade com as políticas. A aprovação do blog é uma etapa técnica e estratégica. Siga cada orientação e, se houver reprovação, ajuste, reenvie e continue. O sucesso é inevitável para quem persiste!"
+          - separator [ref=e42]
+          - article [ref=e43]:
+            - generic [ref=e44]: Mentoria Alvo 10K – Aplicações abertas!
+            - generic [ref=e45]: Um suporte exclusivo para acelerar seu caminho rumo aos 10 mil dólares, com acesso ao programa de aceleração e encontros especiais com a Cris.
+            - link "Clique aqui para aplicar agora" [ref=e47] [cursor=pointer]:
+              - /url: "https://alvo10k.com/aplicacao-mentoria-a10k/?utm_source=cademi&utm_medium=lista-alunos&utm_campaign=ma10k-aplicacao-cfk&utm_term=aula&utm_content=link-aula001 "
+              - button "Clique aqui para aplicar agora" [ref=e48]: Clique aqui para aplicar agora
+            - generic [ref=e49]: Clique no BOTÃO abaixo para enviar o seu nível atingido 👇
+            - link "Enviar Nível Atingido 🎯" [ref=e51] [cursor=pointer]:
+              - /url: https://docs.google.com/forms/d/e/1FAIpQLScoHDCgOz8Uy9kd2obekzLqBtjYnvJlvD_r91JrD3cfioBZlQ/viewform
+              - button "Enviar Nível Atingido 🎯" [ref=e52]
+          - separator [ref=e53]
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - link "Curtir" [ref=e57] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e58]: 
+              - link "Descurtir" [ref=e59] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e60]: 
+              - link "Desmarcar como visto " [ref=e61] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e62]: Desmarcar como visto
+                - text: 
+                - generic [ref=e64]: 
+            - generic [ref=e65]:
+              - link "Anterior" [ref=e66] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837644
+                - generic [ref=e67]: 
+                - text: Anterior
+              - link "Próximo" [ref=e68] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925357
+                - text: Próximo
+                - generic [ref=e69]: 
+          - generic [ref=e70]:
+            - list [ref=e71]:
+              - listitem [ref=e72] [cursor=pointer]: Comentários
+            - generic [ref=e76]:
+              - generic [ref=e78]:
+                - img [ref=e80]
+                - textbox "Deixe seu comentário" [ref=e81]
+                - button "Enviar comentário" [ref=e83] [cursor=pointer]:
+                  - generic [ref=e84]: 
+              - generic [ref=e85]:
+                - generic [ref=e87]:
+                  - generic [ref=e88]:
+                    - img [ref=e90]
+                    - generic [ref=e91]:
+                      - text: Alexandre T.
+                      - generic [ref=e92]: 22/04/2026, 22:27
+                    - generic "Responder" [ref=e94] [cursor=pointer]:
+                      - generic [ref=e95]: 
+                  - paragraph [ref=e98]: Desistir jamais
+                - generic [ref=e100]:
+                  - generic [ref=e101]:
+                    - img [ref=e103]
+                    - generic [ref=e104]:
+                      - text: Alessandro C.
+                      - generic [ref=e105]: 17/02/2026, 09:16
+                    - generic "Responder" [ref=e107] [cursor=pointer]:
+                      - generic [ref=e108]: 
+                  - paragraph [ref=e111]: Ok, perfeito. Masterizando.
+                - generic [ref=e113]:
+                  - generic [ref=e114]:
+                    - img [ref=e116]
+                    - generic [ref=e117]:
+                      - text: Pedro N.
+                      - generic [ref=e118]: 14/09/2025, 20:32
+                    - generic "Responder" [ref=e120] [cursor=pointer]:
+                      - generic [ref=e121]: 
+                  - paragraph [ref=e124]: Seguindo com fé para a aprovação do Blog,em nome de Jesus.
+                - generic [ref=e126]:
+                  - generic [ref=e127]:
+                    - img [ref=e129]
+                    - generic [ref=e130]:
+                      - text: Marcelo J.
+                      - generic [ref=e131]: 22/08/2025, 10:39
+                    - generic "Responder" [ref=e133] [cursor=pointer]:
+                      - generic [ref=e134]: 
+                  - paragraph [ref=e137]: Começando a construção do blog para aprovação, vamos lá...
+                - generic [ref=e139]:
+                  - generic [ref=e140]:
+                    - img [ref=e142]
+                    - generic [ref=e143]:
+                      - text: Elisângela A.
+                      - generic [ref=e144]: 25/07/2025, 14:55
+                    - generic "Responder" [ref=e146] [cursor=pointer]:
+                      - generic [ref=e147]: 
+                  - paragraph [ref=e150]: vamos seguindo com muita fé
+                - generic [ref=e152]:
+                  - generic [ref=e153]:
+                    - img [ref=e155]
+                    - generic [ref=e156]:
+                      - text: Roberta A.
+                      - generic [ref=e157]: 25/07/2025, 11:03
+                    - generic "Responder" [ref=e159] [cursor=pointer]:
+                      - generic [ref=e160]: 
+                  - paragraph [ref=e163]: Fiz todas as anotações no meu caderno para ajudar a ativar as informações no cérebro e não errar, ou errar menos.
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - img [ref=e168]
+                    - generic [ref=e169]:
+                      - text: Luís H.
+                      - generic [ref=e170]: 23/06/2025, 20:36
+                    - generic "Responder" [ref=e172] [cursor=pointer]:
+                      - generic [ref=e173]: 
+                  - paragraph [ref=e176]: Vamos em frente !
+                - generic [ref=e178]:
+                  - generic [ref=e179]:
+                    - img [ref=e181]
+                    - generic [ref=e182]:
+                      - text: Carlos L.
+                      - generic [ref=e183]: 16/06/2025, 15:51
+                    - generic "Responder" [ref=e185] [cursor=pointer]:
+                      - generic [ref=e186]: 
+                  - paragraph [ref=e189]: Desistir, nem pensar! Vamos avançar!
+                - generic [ref=e191]:
+                  - generic [ref=e192]:
+                    - img [ref=e194]
+                    - generic [ref=e195]:
+                      - text: Samuel P.
+                      - generic [ref=e196]: 11/06/2025, 13:45
+                    - generic "Responder" [ref=e198] [cursor=pointer]:
+                      - generic [ref=e199]: 
+                  - paragraph [ref=e202]: SEGUIR PASSO A PASSO AS REGRAS É A MELHOR ESCOLHA E A MELHOR DECISÃO A TOMAR PARA TER SUCESSO.
+                - generic [ref=e204]:
+                  - generic [ref=e205]:
+                    - img [ref=e207]
+                    - generic [ref=e208]:
+                      - text: Claudio S.
+                      - generic [ref=e209]: 26/05/2025, 02:14
+                    - generic "Responder" [ref=e211] [cursor=pointer]:
+                      - generic [ref=e212]: 
+                  - paragraph [ref=e215]: BORA PRA FRENTE.
+              - button "Carregar mais " [ref=e217] [cursor=pointer]:
+                - generic [ref=e218]:
+                  - text: Carregar mais
+                  - generic [ref=e219]: 
+      - complementary [ref=e220]:
+        - generic [ref=e221]:
+          - generic [ref=e223] [cursor=pointer]:
+            - img [ref=e225]
+            - generic [ref=e228]:
+              - generic [ref=e229]: Meu progresso - 49.0%
+              - generic [ref=e230]: 75 de 153 aula
+          - button "Comece Aqui — 11 aulas" [ref=e232] [cursor=pointer]:
+            - img [ref=e234]
+            - generic [ref=e237]:
+              - text: Comece Aqui
+              - generic [ref=e238]: 11 aulas
+          - 'button "01 - Fase de Fundação: Seu Blog no AR — 15 aulas" [ref=e240] [cursor=pointer]':
+            - img [ref=e242]
+            - generic [ref=e245]:
+              - text: "01 - Fase de Fundação: Seu Blog no AR"
+              - generic [ref=e246]: 15 aulas
+          - generic [ref=e247]:
+            - 'button "02 - Fase de Fundação: Preparando o seu Blog para a Aprovação — 12 aulas" [expanded] [ref=e248] [cursor=pointer]':
+              - img [ref=e250]
+              - generic [ref=e253]:
+                - text: "02 - Fase de Fundação: Preparando o seu Blog para a Aprovação"
+                - generic [ref=e254]: 12 aulas
+            - generic [ref=e255]:
+              - link "1. Elementos Essenciais para aprovar o seu Blog" [ref=e256] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925356
+                - generic [ref=e260]: 1. Elementos Essenciais para aprovar o seu Blog
+              - link "2. Conhecendo as Regras do Jogo para o Google" [ref=e261] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925357
+                - generic [ref=e265]: 2. Conhecendo as Regras do Jogo para o Google
+              - link "3. Elementos Visuais do seu Blog (logo e Favicon)" [ref=e266] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925358
+                - generic [ref=e270]: 3. Elementos Visuais do seu Blog (logo e Favicon)
+              - link "4. Logo Profissional em Minutos com IA" [ref=e271] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837751
+                - generic [ref=e275]: 4. Logo Profissional em Minutos com IA
+              - link "5. Componentes indispensáveis para o Blog de sucesso (parte 1)" [ref=e276] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925359
+                - generic [ref=e280]: 5. Componentes indispensáveis para o Blog de sucesso (parte 1)
+              - link "6. Componentes Indispensáveis para um Blog de Sucesso (parte 2)" [ref=e281] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925360
+                - generic [ref=e285]: 6. Componentes Indispensáveis para um Blog de Sucesso (parte 2)
+              - link "7. Componentes indispensáveis para o Blog de sucesso (parte 3)" [ref=e286] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837752
+                - generic [ref=e290]: 7. Componentes indispensáveis para o Blog de sucesso (parte 3)
+              - link "8. Componentes indispensáveis para o Blog de sucesso (parte 4)" [ref=e291] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837857
+                - generic [ref=e295]: 8. Componentes indispensáveis para o Blog de sucesso (parte 4)
+              - link "9. Componentes Indispensáveis para um Blog de Sucesso (parte 5)" [ref=e296] [cursor=pointer]:
+                - /url: /area/conteudo/aula/6837858
+                - generic [ref=e300]: 9. Componentes Indispensáveis para um Blog de Sucesso (parte 5)
+              - link "10. 4 Ferramentas Imprescindíveis para Aprovação do seu blog (parte 1)" [ref=e301] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925361
+                - generic [ref=e305]: 10. 4 Ferramentas Imprescindíveis para Aprovação do seu blog (parte 1)
+              - link "11. 4 Ferramentas Imprescindíveis para Aprovação do seu blog (parte 2)" [ref=e306] [cursor=pointer]:
+                - /url: /area/conteudo/aula/3925362
+                - generic [ref=e310]: 11. 4 Ferramentas Imprescindíveis para Aprovação do seu blog (parte 2)
+              - link "12. Como seguir com o Google Cloud em casos de erro no cadastro" [ref=e311] [cursor=pointer]:
+                - /url: /area/conteudo/aula/4345672
+                - generic [ref=e315]: 12. Como seguir com o Google Cloud em casos de erro no cadastro
+          - 'button "03 - Fase de Fundação: Artigos de Base para aprovação — 14 aulas" [ref=e317] [cursor=pointer]':
+            - img [ref=e319]
+            - generic [ref=e322]:
+              - text: "03 - Fase de Fundação: Artigos de Base para aprovação"
+              - generic [ref=e323]: 14 aulas
+          - 'button "04 - Fase de Fundação: Enviando seu blog para Aprovação — 12 aulas" [ref=e325] [cursor=pointer]':
+            - img [ref=e327]
+            - generic [ref=e330]:
+              - text: "04 - Fase de Fundação: Enviando seu blog para Aprovação"
+              - generic [ref=e331]: 12 aulas
+          - 'button "05 - Fase de Validação: Mineração de palavras-chaves — 14 aulas" [ref=e333] [cursor=pointer]':
+            - img [ref=e335]
+            - generic [ref=e338]:
+              - text: "05 - Fase de Validação: Mineração de palavras-chaves"
+              - generic [ref=e339]: 14 aulas
+          - 'button "06 - Fase de Validação: Blog Aprovado — 10 aulas" [ref=e341] [cursor=pointer]':
+            - img [ref=e343]
+            - generic [ref=e346]:
+              - text: "06 - Fase de Validação: Blog Aprovado"
+              - generic [ref=e347]: 10 aulas
+          - 'button "07 - Fase de Validação: Tráfego com Google Ads — 19 aulas" [ref=e349] [cursor=pointer]':
+            - img [ref=e351]
+            - generic [ref=e354]:
+              - text: "07 - Fase de Validação: Tráfego com Google Ads"
+              - generic [ref=e355]: 19 aulas
+          - 'button "08 - Fase de Validação: Otimização de Campanhas — 32 aulas" [ref=e357] [cursor=pointer]':
+            - img [ref=e359]
+            - generic [ref=e362]:
+              - text: "08 - Fase de Validação: Otimização de Campanhas"
+              - generic [ref=e363]: 32 aulas
+          - 'button "09 - Fase de Escala: Escalando suas Campanhas — 9 aulas" [ref=e365] [cursor=pointer]':
+            - img [ref=e367]
+            - generic [ref=e370]:
+              - text: "09 - Fase de Escala: Escalando suas Campanhas"
+              - generic [ref=e371]: 9 aulas
+          - 'button "10 - Fase de Escala: Blogs em outros idiomas — 5 aulas" [ref=e373] [cursor=pointer]':
+            - img [ref=e375]
+            - generic [ref=e378]:
+              - text: "10 - Fase de Escala: Blogs em outros idiomas"
+              - generic [ref=e379]: 5 aulas
+    - generic:
+      - generic:
+        - main
+  - contentinfo [ref=e380]:
+    - generic [ref=e381]:
+      - generic [ref=e383]: Copyright © 2026 - Cris Franklin. Todos os direitos reservados.
+      - generic [ref=e385]:
+        - link "Termos de uso" [ref=e386] [cursor=pointer]:
+          - /url: https://compliance.cademi.com.br/termos-de-uso
+        - link "Política de privacidade" [ref=e387] [cursor=pointer]:
+          - /url: https://compliance.cademi.com.br/politica-de-privacidade-lgpd
