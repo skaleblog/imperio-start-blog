@@ -31,3 +31,8 @@ Thumbs.db
 # Projeto Império Start Blog
 transcricoes/
 transcrever_curso.py
+
+# Conteúdo dos blogs — fica só no Drive
+imperio-startblog/blogs/blog-01-tecnologia-apps/artigos/
+imperio-startblog/blogs/blog-02-educacao-cursos/artigos/
+imperio-startblog/blogs/blog-03-pets-animais/artigos/
